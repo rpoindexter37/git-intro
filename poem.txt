@@ -2,3 +2,4 @@ the cow jumped over the fence.
 on
 this line is green because it has no git reference
 now this is orange because I adjusted line 2 which was previously committed to git
+making a change
